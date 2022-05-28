@@ -3,16 +3,15 @@
 ### <div align="center">I'm Sharia Arfin Tanim, a student 👨‍💻 styding CSE from 2020 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on **Data Base Project & Web Tec project ** 
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 🌱 I’m currently learning **Web technology & Data Communication  **
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ⚡ Fun fact: I know nothing about CS before 
 
-- ⚡ Fun fact: I use tabs over spaces  
+- 📨 How to reach me shariaarfin096@gmail.com
   
 
 <br/>  
