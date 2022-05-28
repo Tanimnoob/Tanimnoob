@@ -26,12 +26,6 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
-
-### Languages and Tools:  
-
-
 </td><td valign="top" width="33%">
 
 <div align="center">  
