@@ -69,7 +69,7 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tanimnoob&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimnoob&" alt="tanimnoob" /><br/>
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimnoob&" alt="tanimnoob" />
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimnoob&show_icons=true&locale=en&layout=compact" alt="tanimnoob" />
   </div>  
 <br/>
