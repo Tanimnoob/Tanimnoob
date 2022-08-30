@@ -73,9 +73,8 @@ Programmer | Content Creator | Learner
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Tanimnoob&show_icons=true&count_private=true&hide_border=true" align="center" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimnoob&" alt="tanimnoob" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimnoob&show_icons=true&locale=en&layout=compact" alt="tanimnoob" />
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanimnoob&" alt="tanimnoob" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanimnoob&show_icons=true&locale=en&layout=compact" alt="tanimnoob" />
   </div>  
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanimnoob" alt="tanimnoob" /></a> </p>
