@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">I'm Sharia Arfin Tanim, a student 👨‍💻 studying CSE from 2020 🚀</div>  <br/>
+### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">I'm Sharia Arfin Tanim, a student 👨‍💻 studying CSE from 2020 🚀</div>  <br/>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
   
 
