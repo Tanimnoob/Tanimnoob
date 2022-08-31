@@ -11,7 +11,7 @@
 Programmer | Content Creator | Learner
 
 </h3><br/>
-<img align="right" alt="Coding" width="390" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="Coding" width="380" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
   
 
 - 🔭 I’m currently working on **Data Base Project & Web-Tec project**
