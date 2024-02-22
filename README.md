@@ -4,7 +4,8 @@
 </div>
 
 
-### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">I'm Sharia Arfin Tanim, A Researcher who 👨‍💻 completed undergraduate studies in Computer Science and Engineering in 2024. 🚀</div> 
+### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">I'm Sharia Arfin Tanim, a researcher who 👨‍💻 completed undergraduate studies in Computer Science and Engineering in 2024. 🚀</div> 
+
 <h3 align="center">¯\_(ツ)_/¯
 Programmer | Content Creator | Learner
 
