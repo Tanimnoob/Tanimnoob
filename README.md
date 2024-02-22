@@ -13,13 +13,13 @@
 <img align="right" alt="Coding" width="380" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
   <br/>
   
-- 🔭 I’m currently working on **Data Base Project & Web-Tec project**
+- 🔭 I’m currently working on **A federated learning for medical image classification research.**
 
-- 🌱 I’m currently learning **Web technology & Data Communication**
+- 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Blookchain**
+- 👯 I’m looking to collaborate on **Research Area like (Data Science, Computer Vision, Large Language Models)**
 
-- 🤝 I’m looking for help in **thesis**
+- 🤝 I’m looking for help in **Managing computer complexity for ensemble models**
 
 - 💬 Ask me about **anything I am happy to help**
 
