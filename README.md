@@ -1,9 +1,10 @@
-<div align="center"><img align="center"  width="480" ,height="350"src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="center"></div>
 <div align="center">
-  <img align="center"  width="200" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" align="center">
-<!-- <div font-size=50px>Hello</div> -->
-</div>  
-  
+  <img align="center" width="480" height="350" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" align="center">
+</div>
+<div align="center">
+  <img align="center" width="200" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" align="center">
+</div>
+
 
 ### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">I'm Sharia Arfin Tanim, a student 👨‍💻 studying CSE from 2020 🚀</div> 
 <h3 align="center">¯\_(ツ)_/¯
