@@ -7,7 +7,7 @@
 ### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">I'm Sharia Arfin Tanim, a researcher who 👨‍💻 completed undergraduate studies in Computer Science and Engineering in 2024. 🚀</div> 
 <h3 align="center">¯\_(ツ)_/¯
   
-  Rsearcher | Content Creator | Learner
+  Researcher | Content Creator | Learner
 
 </h3><br/>
 <img align="right" alt="Coding" width="380" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
