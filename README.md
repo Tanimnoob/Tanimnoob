@@ -3,7 +3,7 @@
   <img align="center" width="200" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" align="center">
 </div>
 
-### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">**I'm <span style="color: #FF5733;">Sharia Arfin Tanim</span>**, a researcher who 👨‍💻 completed undergraduate studies in Computer Science and Engineering in 2024. 🚀</div>
+### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">**I'm Sharia Arfin Tanim**, a researcher who 👨‍💻 completed undergraduate studies in Computer Science and Engineering in 2024. 🚀</div>
 <h3 align="center">¯\_(ツ)_/¯
   
   Research | Analysis | Optimisation
