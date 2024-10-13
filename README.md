@@ -9,7 +9,7 @@ rese
   Research | Analysis | Optimisation
 
 </h3><br/>
-<img align="right" alt="Coding" width="380" src="https://dribbble.com/shots/2521756-Research/attachments/9343914?mode=media">
+<img align="right" alt="Coding" width="380" src="https://github.com/s-a-tanim/s-a-tanim/blob/main/image_processing20210903-11717-jjcgec.gif">
   <br/>
   
 - 🔭 I’m currently working on **A federated learning for medical image classification research.**
