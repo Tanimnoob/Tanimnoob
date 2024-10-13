@@ -26,11 +26,7 @@
   
 
 📨 How to reach me shariaarfin096@gmail.com  
-<br>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=s-a-tanim&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-tanim" /> 
-</p>
-<br>
+
 
  
 
