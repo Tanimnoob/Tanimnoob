@@ -47,7 +47,6 @@
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" height="50" /> 
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />  
-  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Drawio_logo.svg/512px-Drawio_logo.svg.png" alt="Draw.io" height="50" />  
 </div>
 
 <br/> 
@@ -70,9 +69,6 @@
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="research gate" style="margin-bottom: 5px;" />
   </a>  
 </div>
-
-  
-
 <br/>  
 
 
