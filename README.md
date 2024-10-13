@@ -60,16 +60,16 @@
   <a href="https://github.com/s-a-tanim" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/shariaarfintanim/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://scholar.google.com/citations?user=your-google-scholar-id" target="_blank">
+  <a href="https://scholar.google.com/citations?user=NQheHn0AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/google%20scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:shariaarfin096@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.researchgate.net/profile/your-profile" target="_blank">
+  <a href="https://www.researchgate.net/profile/Sharia-Tanim-2" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="research gate" style="margin-bottom: 5px;" />
   </a>  
 </div>
