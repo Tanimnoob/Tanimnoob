@@ -4,10 +4,9 @@
 </div>
 
 ### <div align="center"><img src="https://github.com/NoobMahbub/NoobMahbub/blob/main/Wave.gif" height="40px" width="50px">**I'm Sharia Arfin Tanim**, a researcher who 👨‍💻 completed undergraduate studies in Computer Science and Engineering in 2024. 🚀</div>
-<h3 align="center">¯\_(ツ)_/¯
+<h3 align="center" style="margin: 0; padding: 0;">¯\_(ツ)_/¯
   
   Research | Analysis | Optimisation
-
 </h3><br/>
 <img align="right" alt="Coding" width="380" src="https://github.com/s-a-tanim/s-a-tanim/blob/main/image_processing20210903-11717-jjcgec.gif">
   <br/>
@@ -79,14 +78,6 @@
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-a-tanim" alt="s-a-tanim" /></a> </p>
 
-
-### 🐍 Contribution Snake
-
-![GitHub Snake Light](https://raw.githubusercontent.com/s-a-tanim/s-a-tanim/output/github-snake.svg)
-
-![GitHub Snake Dark](https://raw.githubusercontent.com/s-a-tanim/s-a-tanim/output/github-snake-dark.svg#gh-dark-mode-only)
-
-![GitHub Snake GIF](https://raw.githubusercontent.com/s-a-tanim/s-a-tanim/output/ocean.gif)
 
 
 
