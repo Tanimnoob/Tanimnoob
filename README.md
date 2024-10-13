@@ -78,4 +78,14 @@
 </div>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-a-tanim" alt="s-a-tanim" /></a> </p>
+
+
+### 🐍 Contribution Snake
+
+![GitHub Snake Light](https://raw.githubusercontent.com/<Your-GitHub-Username>/<Your-Repository>/output/github-snake.svg)
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/<Your-GitHub-Username>/<Your-Repository>/output/github-snake-dark.svg#gh-dark-mode-only)
+
+![GitHub Snake GIF](https://raw.githubusercontent.com/<Your-GitHub-Username>/<Your-Repository>/output/ocean.gif)
+
   
