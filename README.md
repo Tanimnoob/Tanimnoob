@@ -41,8 +41,8 @@
 
 <div align="center">  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" height="50" />  
-  <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/computer-vision.png" alt="Computer Vision" height="50" />  
+  <img style="margin: 10px" src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning" height="50" />  
+  <img style="margin: 10px" src="https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="50" />  
   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="LaTeX" height="50" />  
   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />  
 </div>
