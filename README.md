@@ -29,7 +29,7 @@
 📨 How to reach me shariaarfin096@gmail.com  
 <br>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=tanimnoob&label=Profile%20views&color=0e75b6&style=flat" alt="tanimnoob" /> 
+  <img src="https://komarev.com/ghpvc/?username=tanimnoob&label=Profile%20views&color=0e75b6&style=flat" alt="s-a-tanim" /> 
 </p>
 <br>
 
@@ -57,7 +57,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Tanimnoob" target="_blank">
+<a href="https://github.com/https://github.com/s-a-tanim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/https://www.facebook.com/sharia.tanim.5" target="_blank">
