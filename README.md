@@ -62,6 +62,10 @@
   <a href="https://www.linkedin.com/in/shariaarfintanim/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
+    </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=world&logoColor=white" alt="portfolio" style="margin-bottom: 5px;" />
+  </a>  
   <a href="https://scholar.google.com/citations?user=NQheHn0AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/google%20scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" style="margin-bottom: 5px;" />
   <a href="https://www.researchgate.net/profile/Sharia-Tanim-2" target="_blank">
