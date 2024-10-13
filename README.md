@@ -77,8 +77,9 @@
 
 ## Github Stats  
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-tanim&" alt="s-a-tanim" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s-a-tanim&show_icons=true&locale=en&layout=compact" alt="s-a-tanim" />
-  </div>  
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s-a-tanim&" alt="s-a-tanim" />
+</div>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-a-tanim" alt="s-a-tanim" /></a> </p>
   
