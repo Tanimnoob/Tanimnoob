@@ -1,4 +1,4 @@
-
+rese
 <div align="center">
   <img align="center" width="200" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif" align="center">
 </div>
@@ -9,7 +9,7 @@
   Research | Analysis | Optimisation
 
 </h3><br/>
-<img align="right" alt="Coding" width="380" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+<img align="right" alt="Coding" width="380" src="https://dribbble.com/shots/2521756-Research">
   <br/>
   
 - 🔭 I’m currently working on **A federated learning for medical image classification research.**
