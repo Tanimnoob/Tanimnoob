@@ -66,7 +66,7 @@
   <a href="https://scholar.google.com/citations?user=NQheHn0AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/google%20scholar-4285F4?&style=for-the-badge&logo=google-scholar&logoColor=white" alt="google scholar" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:shariaarfin096@gmail.com" target="_blank">
+  <a href="shariaarfin096@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.researchgate.net/profile/Sharia-Tanim-2" target="_blank">
