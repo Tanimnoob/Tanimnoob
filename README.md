@@ -82,10 +82,11 @@
 
 ### 🐍 Contribution Snake
 
-![GitHub Snake Light](https://raw.githubusercontent.com/<Your-GitHub-Username>/<Your-Repository>/output/github-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/s-a-tanim/s-a-tanim/output/github-snake.svg)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/<Your-GitHub-Username>/<Your-Repository>/output/github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/s-a-tanim/s-a-tanim/output/github-snake-dark.svg#gh-dark-mode-only)
 
-![GitHub Snake GIF](https://raw.githubusercontent.com/<Your-GitHub-Username>/<Your-Repository>/output/ocean.gif)
+![GitHub Snake GIF](https://raw.githubusercontent.com/s-a-tanim/s-a-tanim/output/ocean.gif)
+
 
   
