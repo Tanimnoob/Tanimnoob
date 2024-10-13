@@ -11,17 +11,16 @@
 <img align="right" alt="Coding" width="380" src="https://github.com/s-a-tanim/s-a-tanim/blob/main/image_processing20210903-11717-jjcgec.gif">
   <br/>
   
-- 🔭 I’m currently working on **A federated learning for medical image classification research.**
 
-- 🌱 I’m currently learning **Data Science**
+-🔭 I am currently engaged in research on federated learning for medical image classification.
 
-- 👯 I’m looking to collaborate on **Research Area like (Data Science, Computer Vision, Large Language Models)**
+-🌱 I am expanding my knowledge in Data Science.
 
-- 🤝 I’m looking for help in **Managing computer complexity for ensemble models**
+-👯 I am open to collaborations in fields such as Data Science, Computer Vision, and Large Language Models.
 
-- 💬 Ask me about **anything I am happy to help**
+-🤝 I am seeking assistance with managing computational complexity in ensemble models.
 
-- ⚡ Fun fact **I know nothing about CS before**  
+-💬 Feel free to ask me about anything—I'm happy to help!
   
 
 📨 How to reach me shariaarfin096@gmail.com  
